@@ -1,0 +1,28 @@
+/* Base styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #2c2c2c; /* Dark grey */
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  border: 4px solid #fff; /* White */
+  padding: 50px;
+  text-align: center;
+  background-color: #1a1a1a; /* Very dark grey */
+  box-shadow: 10px 10px 0 #fff; /* White */
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 3em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 0;
+}
