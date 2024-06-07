@@ -19,6 +19,7 @@ const PORT = process.env.PORT || 3001;
 const allowedOrigins = [
   "http://localhost:3000",
   "https://4f458e3d.leads-data-frontend.pages.dev/",
+  "https://leads-data-frontend.pages.dev",
 ];
 
 // Setup cors middleware with custom options
